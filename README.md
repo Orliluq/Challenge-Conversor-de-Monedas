@@ -26,6 +26,5 @@ Para ejecutar el proyecto, sigue estos pasos:
 📌 Ejecuta la aplicación y sigue las instrucciones para realizar conversiones de divisas.
 
 <div align="center">
-![ConvertidorMoneda](https://github.com/Orliluq/Challenge-Conversor-de-Monedas/assets/122529721/91942e1e-f237-4d25-8b18-9badcfcf0489)
-</div>
+  ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
 
