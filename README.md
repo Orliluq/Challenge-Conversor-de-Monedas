@@ -26,6 +26,5 @@ Para ejecutar el proyecto, sigue estos pasos:
 📌 Ejecuta la aplicación y sigue las instrucciones para realizar conversiones de divisas.
 
 
-
-  ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
+![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
 
