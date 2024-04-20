@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=https://github.com/Orliluq/Challenge-Conversor-de-Monedas/assets/122529721/3c027255-d165-417a-b6ac-4798886114ec"
+</p>
+
+<br></br>
 # Challenge-Conversor-de-Monedas 👩‍💻
 ## Curso de Practicando con Java: Challenge Conversor de Monedas
 Este proyecto es un Conversor de Monedas desarrollado en Java que te permite convertir diferentes divisas utilizando una API de tasas de cambio. 
