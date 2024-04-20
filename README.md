@@ -27,5 +27,5 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 
 
-                        ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
+  ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
 
