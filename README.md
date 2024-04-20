@@ -26,10 +26,10 @@ Utiliza las siguientes tecnologías y herramientas:
 # Ejecución del Proyecto ⚙️
 Para ejecutar el proyecto, sigue estos pasos:
 
-*📌 Clona o descarga el repositorio en tu sistema local.
-*📌 Importa el proyecto en tu IDE de Java (por ejemplo, IntelliJ IDEA).
-*📌 Configura las dependencias y ajusta la configuración según sea necesario.
-*📌 Ejecuta la aplicación con la clase IniciarApp y siga las instrucciones en pantalla.
+* Clona o descarga el repositorio en tu sistema local.
+* Importa el proyecto en tu IDE de Java (por ejemplo, IntelliJ IDEA).
+* Configura las dependencias y ajusta la configuración según sea necesario.
+* Ejecuta la aplicación con la clase IniciarApp y siga las instrucciones en pantalla.
 
 # Recursos 
 💱 API de Tasas de Cambio: Utiliza una API confiable y bien documentada para obtener las tasas de cambio actualizadas. Algunas opciones populares incluyen ExchangeRate-API y Open Exchange Rates.
