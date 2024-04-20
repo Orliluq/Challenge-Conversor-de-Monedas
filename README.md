@@ -25,6 +25,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 📌 Configura las dependencias y ajusta la configuración según sea necesario.
 📌 Ejecuta la aplicación y sigue las instrucciones para realizar conversiones de divisas.
 
-<div align="center">
-  ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
+
+
+                        ![ConvertidorMoneda](https://raw.githubusercontent.com/username/repository_name/master/images/ConvertidorMoneda.png)
 
